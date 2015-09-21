@@ -1,0 +1,11 @@
+# Operating-Systems
+This repository contains work related to operating systems.
+
+Contents:
+- Comparison of I/O speed in relation to different buffer sizes.
+- Implementation of a chat client using named pipes.
+- Implementation of a bounded buffer for thread safe applications.
+- Research paper evaluations of the following topics:
+    - Arrakis The Operating System is the Control Plane 
+    - Dune Safe User-level Access to Privileged CPU Features
+    - IX A Protected Dataplane Operating System for High Throughput and Low Latency
